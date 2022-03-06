@@ -33,7 +33,7 @@ _MyComponent.js_
 
 ```javascript
 import React, { useState } from "react";
-import Modal from "modal-lib-opc14";
+import { Modal } from "modal-lib-opc14";
 import { exampleBody } from "./example";
 
 const MyComponent = () => {
@@ -68,7 +68,7 @@ _MyComponent.js_
 
 ```javascript
 import React, { useState } from "react";
-import Modal from "modal-lib-opc14";
+import { Modal } from "modal-lib-opc14";
 
 const MyComponent = () => {
   //React Hook to create and modify local state
@@ -94,7 +94,7 @@ _MyComponent.js_
 
 ```javascript
 import React, { useState } from "react";
-import Modal from "modal-lib-opc14";
+import { Modal } from "modal-lib-opc14";
 
 const MyComponent = () => {
   //React Hook to create and modify local state

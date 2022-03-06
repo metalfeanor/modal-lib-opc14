@@ -23,6 +23,7 @@ const Modal = ({ isOpen, closeModal, children, style, className }) => {
               role="img"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 352 512"
+              className="svg-modal-btn"
             >
               <path
                 fill="currentColor"
